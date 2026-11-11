@@ -64,13 +64,18 @@ Acredito que o conhecimento, a inovação e a criatividade são ferramentas fund
 
 ## 📊 ESTATÍSTICAS DO GITHUB
 
+
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=leandropaz-coder&show_icons=true&theme=tokyonight&bg_color=06152E&title_color=00CFFF&icon_color=00CFFF&text_color=FFFFFF&border_color=007BFF&hide_border=false" />
-
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=leandropaz-coder&layout=compact&theme=tokyonight&bg_color=06152E&title_color=00CFFF&text_color=FFFFFF&border_color=007BFF" />
+  <img
+    width="931"
+    height="186"
+    src="https://github.com/user-attachments/assets/381e4ab3-1264-4b75-9309-68acc1e57b22"
+    alt="Banner - Leandro Paz"
+  />
 
 </div>
+
 
 ## 🌐 CONECTE-SE COMIGO
 
