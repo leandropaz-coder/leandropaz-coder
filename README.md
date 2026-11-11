@@ -3,7 +3,7 @@
 
 <!-- Banner: salve sua arte em assets/banner-github.png -->
 
-<img src="assets/banner-github.png" width="100%" alt="Design, Criatividade e Tecnologia"/>
+<img src="[assets/banner-github.png](https://chatgpt.com/c/6af4a243-6494-83e9-acd8-3e4c4b8bb372)" width="100%" alt="Design, Criatividade e Tecnologia"/>
 
 # 👨‍💻 LEANDRO PAZ
 
